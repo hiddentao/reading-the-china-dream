@@ -1,0 +1,99 @@
+---
+title: "Zhao Tingyang and Logic"
+date: "2025-11-18"
+sourceUrl: "https://www.readingthechinadream.com/zhao-tingyang-and-logic/"
+---
+
+**Zhao Tingyang, “What Makes Chinese People Illogical?”** **\[1\]**  
+  
+**Introduction and Translation by David Ownby**  
+  
+_Introduction_  
+  
+This is one of the texts translated for the collaborative project with[ GreatFire](https://en.greatfire.org/) on [Reading and Writing under Chinese Censorship](/censorship-in-china/), as an example of something that was published online in China and subsequently taken down.  
+  
+Zhao Tingyang is a professor in the Institute of Philosophy at the Chinese Academy of Social Sciences and is best known for his work on the “_tianxia_ system 天下体系.” _Tianxia_ refers to the idea of Chinese universalism prior to the arrival of the West, the notion that China was the rightful center of the world _because_ it embodied a moral order that radiated out from China’s center in all directions, inviting all peoples of the world to adopt that moral order, thus becoming Chinese and fully human. In the context of China’s rise, Zhao has attempted to recycle and renew the concept, and to offer it as an alternative _harmonious_ possibility to the current world order, which is based on the selfish interests of individual nation-states and characterized by competition and conflict. Zhao’s work has been extremely popular and influential (particularly but not exclusively in China) and has provoked a great deal of discussion.  
+  
+Zhao’s basic ideas on _tianxia_ are available in English. See “[Rethinking Empire from a Chinese Concept ‘All-under-Heaven’ (Tian-xia)](https://www.semanticscholar.org/paper/Rethinking-Empire-from-a-Chinese-Concept-%28Tian-xia%2C-Zhao/7ab13108b384a666cc4df192aac153214c981801),” _Social Identities: Journal for the Study of Race, Nation and Culture_ Volume 12.1 (2006): 29-41; and “[A Political World Philosophy in terms of All-under-heaven](https://journals.sagepub.com/doi/10.1177/0392192109102149) (Tian-xia),” _Diogenese_ 221 (2009) 5-18\. For an excellent discussion of Zhao’s theory, see William A. Callahan, “[Chinese Visions of the World Order: Post-Hegemonic or New Hegemony](https://academic.oup.com/isr/article/10/4/749/1819140),” _International Studies Review_ 10.4 (2008): 749-761\. For a critically sympathetic view of Zhao’s work by a Chinese scholar, see Liang Zhiping, “[Imagining ‘Tianxia’: Building Ideology in Contemporary China](/liang-zhiping-tianxia-and-ideology/),” especially part three. For a critically unsympathetic view of Zhao’s work by a Chinese scholar, see Ge Zhaoguang, “[Imagining 'All Under Heaven:' the Political, Intellectual and Academic Background of a New Utopia.](/ge-zhaoguang-tianxia-and-utopia/)”   
+  
+The text translated here is an interview with Zhao, and it reads like the kind of irreverent thought piece intellectuals write anywhere in the world. I don’t know if there was a broader cultural discussion of “China and logic” at the time or if this is a one-off piece, but it is meant to be amusing and provocative. If Zhao has a real point to make, it is that ancient Chinese thought did not value logic in the Western sense, but this does not mean that modern Chinese people cannot learn to practice logical thinking in their daily lives.  
+  
+It is easy to see why this piece ran afoul of the censors. Amidst wide-ranging discussions of Hegel and the _Daodejing_, the journalist says outright that the Chinese government is not logical, and elsewhere Zhao opines that if propaganda gets results and logic doesn’t, then it is clear why people choose propaganda.   
+  
+_Translation_  
+  
+_The Chinese People Do Not Lack Logical Ability, But They Do Lack Training_  
+  
+**Southern Window**: Not being logical seems to be part of the collective unconscious of the modern Chinese people. Most public debates begin with individual positions and end with personal attacks. Certain government offices are not very logical either, but instead seem to run on a “logic” of: “If you try to reason with the government, the government calls you a thug; if you call the government a thug, they lay down the law on you; if you lay down the law on someone else, the government comes back at you with politics.”  
+  
+And there is another way of not being logical. We are all used to “arguing” by playing with categories, metaphors, and symbols. These are language games we have played since we were children. What are the consequences of this at the thought level?  
+  
+**Zhao Tingyang:** Like you, I oppose arguing through word games. They may be interesting in and of themselves, but they are not appropriate when trying to argue something. Using Aristotelean “rhetoric” to argue things is likely to result in distortions or even nonsense. The ancient Greeks were excellent at rhetoric, just like they were good at logic, and many popular leaders of the ancient Greek world were adept at using rhetoric to hoodwink other people. Aristotle figured out early on that rhetoric can hide the truth.  
+  
+**Southern Window**: Categorical comparisons are one way that many people like to argue, as in expressions like “good horses get ridden, and good people get cheated.” When we do this, we fail to note what British philosopher Gilbert Ryle (1900-1976) called “category errors:” if A and B belong to different categories, but you want to affirm one by dint of the other, then before crossing what some have called “Ryle’s ravine,” you have to prove that there is a logical link between A and B, to show that at some level they are the same or of a similar nature.  
+  
+**Zhao Tingyang**: I’m not really against popular sayings, since they deal in obvious truths without attempting to argue anything in particular. The point of sayings is not to use rhetoric for the purposes of argument, but to create a pithy expression, and this is true in all languages. I don’t really know why most people don’t use logic, whether they are just blathering on, or trying to be funny, or being tedious, or hiding something, or cheating somebody, but whatever the reason, they are intentionally not being logical.  
+  
+But I still would like to use the ancient Chinese philosopher Han Fei’s (? – 233BCE ) theory of credible rewards and punishments to offer a bit more explanation: if when you do a certain thing you receive a reliable reward (be it material or in terms of reputation), then everyone will hasten to do that thing. It’s easy to imagine that if propaganda produces reliable rewards, then everyone will love propaganda, and if the pursuit of truth does not, then those who pursue truth will be fewer.  
+  
+**Southern Window**: In terms of logical reasoning abilities, foreigners always seem to have had a dim view of China. Hegel said that logic in China didn’t work. Einstein argued that China lacks the two bases for Western science, i.e., formal logic and cause and effect results generated by systematic experiments, so the fact that China did not produce science was not to him surprising. And French philosopher Lucien Lévy-Bruhl (1857-1939) was even harsher, suggesting that ancient Chinese ideas about the “resonance between man and the heavens 天人感应” was pure “primitive thought,” and dismissing as nonsense all of those “ancient frothy encyclopaedias devoted to astronomy, physics, chemistry, biology, disease and its treatment.” What are your thoughts about these observations?  
+  
+**Zhao Tingyang**: Any logician will tell you that Hegel himself wasn’t logical. Hegel thought up “dialectical logic,” something that provides negative teaching materials for logic. Dialectics are a kind of metaphysical “grammar,” if you will permit me this slightly incorrect depiction. Dialectics is of no use in logic, but is useful for philosophy, and can be used to discover the “extra possibilities” a thing might possess.  
+  
+What’s funny is that having gone through a vulgar distortion, Hegel’s “dialectical logic” seems quite well received in China, although I don’t know what Hegel himself would make of that. What Einstein said makes some sense, although more explanation is required. As for Lévy-Bruhl, his views on Chinese thought are based on ignorance, so there’s no need to spend much time on them.  
+  
+**Southern Window**: Saying that “Chinese people are not logical” seems to be of a piece with prejudices like “China is the sick man of Asia,” or “Chinese people are stupid.” The last two have been corrected, so how do we fix the first one?  
+  
+**Zhao Tingyang**: Where does logical ability come from? Intuitive mathematicians believe that logic comes from math, but the reason they give doesn’t seem entirely convincing. Many philosophers believe that logic is in fact a substrate to the grammar of a language. This seems easy to understand, because facts show us that if you are able to speak, you are also able to employ logic. I can agree with the notion that traditional China valued thought but not theory, nor did it value logical training. But saying that there was a lack of logical training is not the same as saying that there was a lack of logical ability.   
+  
+_You Cannot Use Logic to Adjudicate Emotional Questions_  
+  
+**Southern Window**: There have always been people who trace the origin of Chinese people’s lack of logic to the ancient classics. First was the Overseas Chinese physicist Chen-Ning Franklin Yang (b. 1922), who said that the reason modern science did not bloom in China had a lot to do with the _Book of Changes_. Later on there were other people who said that classics like the _Book of Changes_, the _Analects_, and the _Mencius_ are full of logical contradictions.  
+  
+**Zhao Tingyang**: As I said a few minutes ago, the Chinese classics were about thought, not theory, and the fact that some views are inconsistent is hardly strange. Also, when you think about it, you realize that life itself is full of contradictions. Consequently, when thought about life has internal contradictions, this reflects what life is. This has nothing to do with logic.  
+  
+**Southern Window**: Confucius once said “When a person's father is alive, observe his intentions. After his father is no more, observe his actions. If for three years he does not change his father's ways, he is worthy to be called filial.” This led some people to wonder, why three years, why not two or four? There is absolutely no reason. This is a bit like a paradox with the logic of the dialectic: why does one become two rather than three or four? What do you think of these questions?  
+  
+**Zhao Tingyang**: As for why Confucius chose three years as a marker of filial piety is not a logical question, but rather has to do with culture and emotions. We have to consider the context as well.  
+If Confucius were alive today, he would surely consider the rhythm of daily life and might well change his idea about the need for three years. Someone would have to look into why Confucius chose three years at the time. If I had to make a guess, I would say it more or less corresponds to the time parents take care of infants and very young children – not a direct correspondence, of course, but a kind of general choice that relates to how people feel. If you want to try to pick this apart with logic, then to my mind, you don’t understand what scholarship is, nor are you in touch with human feelings.  
+  
+**Southern Window**: In that case, if you’re looking at things like the mysterious idea of “resonance between heaven and man” that we talked about a few minutes ago, would it also be improper to start the exploration by saying that it is “illogical”?  
+  
+**Zhao Tingyang**: Not everything is an epistemological question, you have to take a close look on each occasion. From an epistemological perspective, the “resonance” between heaven and man” is clearly not real, so you can’t believe it. I don’t even know whether Dong Zhongshu (179 – 104 BC) really believed it. In its historical context, I doubt that “resonance between heaven and man” was really an epistemological claim but rather a kind of fabricated political pressure. Pre-Qin society was quite free, and the popular mood could turn into a kind of political pressure directed at the leaders, but things became autocratic after the Qin-Han unification. What the people wanted became less clear, and that the scholars decided to invent some new political control based on this idea of resonance makes sense to me Of course, there’s no way to know whether Dong Zhongshu and his crowd really believed it.\[2\]   
+  
+_The Biggest Difference between Chinese and Western Thought_  
+  
+**Southern Window**: We agree that the point of logic is to clarify the meaning of concepts. But some of the classics of the Chinese tradition seem to prefer to market in vagueness and mystery.  
+For example, in the _Daodejing_, there is the line \[道可道非常道\] about the “Way” that can be “wayed.” Some people say that “wayed” means “spoken,” but your reading is that it means “that has rules to follow.” In your article on “Possible and Reasonable Explanations of the Word ‘Dao,’” you argue that “The pursuit of knowledge in ancient China had nothing to do with transcendental problems and was basically grounded in life as lived. Even their imaginings about the universal principles of nature, such as the yin and yang, the five elements, and so on, were artistic touches about this knowledge of life as lived and were by no means 'scientific' inquiries."  
+  
+Maybe we can put it this way: people in ancient China in fact were not interested in mysteries outside of life as lived; the Chinese people were not interested in knowledge about the nature of the world itself, and for this reason paid little attention to the kind of logic that interested the West.  
+  
+**Zhao Tingyang**: In general, ancient Chinese thought was unconcerned with things that transcended existence, and their focus was mostly on life as lived at the human level, such as ethics, politics, war and peace. But Western thought was concerned with these things as well. If we want to look at the biggest difference between Chinese and Western thought, it seems to me that it is that Western thought looked for ideas of what was eternal, absolute, unchanging, beautiful, final. The two foundations of Western thought – the Greek heritage and Christianity – both seek eternal “ideas of beauty,” concepts so good that they cannot be improved on, like God, perfect people and things, absolutely selfless sacrifices (like that of Christ), absolutely pure mothers (like Mary), fortresses that last forever, absolutely flawless diamonds, supermen without enemies.  
+  
+Perfection means something that is eternal, super-historical, unchanging, and logic is good for talking about such ideas; ancient Chinese thought sought to understand existing circumstances that were ever-changing, uncertain, unending. The _Book of Changes_, as well as Laozi and Confucius, all eschewed ideas of perfection and instead favored existing circumstances that were forever evolving.  
+  
+**Southern Window**: How should we understand that the difference between Chinese and Western thinking in terms of "whether or not to pursue perfection" does not imply that one is better than the other?  
+  
+**Zhao Tingyang**: To cite an example, the Gödel theorem\[3\] frustrated mathematicians’ dream of completeness and consistency (mathematics best represents the concept of perfection), and for a time made them worry that the truth was lost forever. However, if ancient Chinese mathematicians or philosophers heard of Gödel's theorem, it would not have upset them, and they would have welcomed it. In Laozi's view, incompleteness or inconsistency is the truth of all existence. In fact, once a fact or a problem approached “infinity,” then it was necessarily incomplete or inconsistent.  
+In the imagination of the _Book of Changes_, yin and yang perpetually seek balance; for Confucius, even the sage has flaws; for Laozi, existence is like water…Nothing is absolutely good or good to the point that it cannot change. This character of constantly evolving does not possess the necessity of logic, because the path is one of constant bifurcation, and bad things can turn into good things at any point. Whether this type of thought is “logical” makes no difference, and what it is concerned with and hopes to accomplish are different.  
+  
+**Southern Window**: The idea behind your “Tianxia System” is to find a solution to today’s anarchic international order with its eternal conflicts, and this idea turns out to be different from how Western thought deals with issues of “world peace.”  
+  
+**Zhao Tingyang**: My Tianxia System seeks to solve the problem of globalization that Kant’s theory of peace could not. In terms of methodology and basic ideas, there is indeed a big difference, in that theories like Kant’s theory of world peace\[4\] all seek peace from within existing international relations, while I pursued an opposite methodology and asked what conditions would be necessary for world peace to be possible. To my mind, this Tianxia System gives us the best theory of world peace, ideas that could be applied to today’s globalized world system.   
+  
+_Ideals are More Important than Logic_  
+  
+**Southern Window**: Logic is one of the seven basic disciplines identified by UNESCO, so we can see how important it is. You have been involved in the planning of two UNESCO Philosophy Day programs in China. What are your expectations or suggestions for Chinese people to improve their logical thinking skills?  
+  
+**Zhao Tingyang**: As I said a few minutes ago, everyone has the ability to think logically, and this ability can be improved. Education in logic should help to spread logical thinking. However, the ability to think logically does not guarantee this knowledge will be put to a good purpose. I know a number of Ph.D.s in logic and was surprised to find that while they are familiar with logical formulas and deductions techniques, they only use these tools when performing abstract calculations. When they are thinking about other things, they do not stand out at all, and sometimes do not use their logic. This curious fact made me understand that logic is merely a technique, as well as an attitude, or to put it more accurately it is an ideal attitude. If you don’t seek ideals, then your logic is useless no matter how keen it is.  
+  
+**Notes**   
+  
+\[1\]赵汀阳, “[是什么让中国人不讲逻辑](https://freewechat.com/a/MzI3ODY)？” originally published on [一个人de思想史 ](https://freewechat.com/profile/MzI3ODYyNzE5MQ==) on November 26, 2022.  
+  
+\[2\]Translator’s note: When the idea of “resonance” was applied to the emperor, it meant that natural disasters could be blamed on flaws in the emperor's behavior or thought. Zhao is suggesting that Dong Zhongshu and others conceived of the idea in part to allow scholars to control the emperor through scholarly interpretation of these phenomena.  
+  
+\[3\]Translator’s note: The theorem states that ”in any reasonable mathematical system there will always be true statements that cannot be proven.”  
+  
+\[4\]Translator’s note: “Kant argues in _Perpetual Peace_ and in the _Metaphysics of Morals_ that true peace is possible only when states are organized internally according to "republican" principles, when they are organized externally into a voluntary league that promotes peace, and when they respect the human rights not only of their own citizens but also of foreigners. He regards these three main requirements as intrinsically connected and argues that they can be successfully met only jointly.” _Cambridge Companion to Kant and Modern Philosophy_, Paul Guyer, ed. Cambridge: Cambridge UP, 2006: 47.  
+  

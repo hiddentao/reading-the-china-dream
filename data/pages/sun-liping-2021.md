@@ -1,0 +1,69 @@
+---
+title: "Sun Liping, \"2021\""
+date: "2025-11-18"
+sourceUrl: "https://www.readingthechinadream.com/sun-liping-2021/"
+---
+
+**Sun Liping, “2021: What Kind of World Will We Face?”**\[1\]  
+  
+**Introduction and Translation by David Ownby**  
+  
+_Introduction_  
+  
+Sun Liping (b. 1955) is Professor of Sociology at Tsinghua University and a leading public intellectual in China. Over the course of his long and prolific career, his research has focused on a wide variety of issues, most related to the question of the effects of China’s economic transformation on China’s society. He writes as a liberal, as illustrated by his well-known 2009 essay, “[The Biggest Threat to China is not Social Turmoil but Social Decay](https://chinadigitaltimes.net/2009/03/sun-liping-%E5%AD%99%E7%AB%8B%E5%B9%B3-the-biggest-threat-to-china-is-not-social-turmoil-but-social-decay/),” in which he interrogates the cost of the state’s overweening emphasis on “stability.” Several of Sun’s texts are readily available in English translation on the web; your favorite web browser will find them for you.  
+  
+The text translated here is from Sun’s WeChat feed, and is the resume of a talk Sun gave at the [Yinhua Fund](http://www.yhfund.com.cn/mainen/about%5Fyinhua/milestone/index.shtml) Asset Management Forum 银华基金资产管理论坛, held on January 21, 2021, presumably to fund managers. Chinese intellectuals with name recognition are often sought out by the business community for lectures or private seminars; many of my Chinese friends tell me that this can be both lucrative and stimulating. This context probably explains Sun’s reference to his “friends in business” and to various economic topics.  
+  
+The theme of Sun’s talk is “uncertainty,” and the text is too short for Sun to develop much of an argument. What caught my eye was the cautious, sober tone of Sun’s message. Like many Chinese, Sun thinks that the world may well be at a historic turning point, but he is not celebrating China’s rise and America's decline. Instead, he stresses the need to be vigilant in the face of rising state power in China, which could grow “organically” out of the management of the pandemic, and notes at the end that China’s rapidly aging population will surely be an obstacle to future economic growth.  
+  
+_Favorite Quotes_  
+  
+“In an environment of uncertainty, the impact of human interventions will greatly increase. This will be true throughout the world. In China’s particular situation, we must be especially watchful concerning the excessive growth of state power, which could distort the rules of economics and the normal process of economic development, and even bring back the old system.”  
+  
+“Will America start to decline? Many people have been talking about this recently. How do we evaluate the situation? In fact, it is a huge, complicated question, but my view is quite simple. Whether the U.S. will decline will be decided in the short term by whether it can sustain its capacity for innovation, and in the long term by whether it can resolve its internal tensions through institutional renewal. My view is that there is relatively little likelihood that America will decline in the short term, but the long-term challenge is indeed very serious, and the most important issues are changes in America’s demographic structure brought about by the process of globalization, and America’s internal ‘clash of civilizations.’”  
+  
+“In terms of China’s development, at present we are genuinely facing a choice: do we continue to stay the course and improve the people’s livelihood, or do we shoot the moon? In the past we have lived through one period in which we tried really hard and things didn’t work out, and one in which things worked out well although we didn’t try all that hard. We need to understand that we are facing extremely difficult livelihood issues.   
+  
+The biggest problem is our demographic situation. I have already talked a lot about our aging population, and there is no need to go over it again. But we should not forget the problems at the other end of the population ladder. Every new year we note data like these: 2784 babies were born in Shanghai on January 1, 1990\. On January 1, 2000, 1148\. On January 1, 2010, 380, and on January 1, 2020, 156\. Of course, we have to take these numbers with a grain of salt, because some children born to young people who are in Shanghai but have not obtained Shanghai residence permits are not counted. But in any event, the declining birth rate is already a various serious problem. In the future, how we balance the basic needs of the people and our larger ambitions may be a serious problem.”  
+  
+_Links to other texts on this site_  
+  
+Click [here](/texts-related-to-coronavirus/) for texts related to the coronovirus pandemic  
+  
+Click [here](/texts-related-to-donald-trump/) for texts related to Donald Trump  
+  
+Click [here](/texts-related-to-china-us-relations/) for texts related to China-U.S. relations  
+  
+_Translation_  
+  
+Uncertainty is the most prominent feature of our age, and the world may not be less uncertain in 2021 than it was last year. But 2021’s uncertainty will be markedly different from that of 2020\. The uncertainty of 2020 was basically the product of the impact of certain events, while uncertainty in 2021 will mainly grow out of the choices we make in response to the impact of these events, and the direction of history that will be determined by these choices. The direction of history often has deeper and longer-range effects than the choices themselves. What the world will look like after 2021 depends to a large extent on the choices we will make in 2021.  
+  
+In 2020, a series of huge events smashed into us, things changed so fast that there was no time even to think about what was happening, and everyone was in a state of shock. As the pandemic unfurled around the world, everything was in a state of suspended animation—society, companies, even our individual selves. In times like this you fall back on your basic reflexes, that’s just how things are, no one can get anything done, there’s nothing going on out there in society to attract you. Staying alive is the whole ball game, and for the rest you trust to fate. Even if your company shuts down, well, it’s tough, but what choice do you have? In times like these, you may feel sad, but you don’t feel perplexed, because there’s no time to wonder about things.  
+  
+2021 will be different, and many kinds of temptations will make themselves felt. I once said that because of the pandemic, the economy of the entire world is going to find itself jockeying for position in the slow lane on the highway. As the speed drops, competition will increase, it will be very hard to get anywhere, and people may resort to all kinds of strange maneuvers.   
+  
+At moments like these, opportunities, temptations, and pitfalls are all waving their hands at you. Especially for my friends in business, this year they may really come to understand the meaning of the expression _xinjing yaoye_ 心旌摇曳: you’re ill at ease, and your heart is fluttering like a flag in the wind. Among these temptations, some will be genuine opportunities, while some may be pitfalls. The volatility of the pandemic, the murkiness of the international situation, and the constant changes in government policies will come together to create an environment of uncertainty in 2021\.   
+  
+In an environment of uncertainty, the impact of human interventions will greatly increase. This will be true throughout the world. In China’s particular situation, we must be especially watchful concerning the excessive growth of state power, which could distort the rules of economics and the normal process of economic development, and even bring back the old system.   
+  
+2021 will be a year in which the financial situation of the entire world will be thrown upside down. The new trends and structures growing out of these changes will profoundly change the world. I read somewhere that the amount of money printed throughout the world between March of last year and now was as much as all of the money printed in the 5000 year history of the world until 2008\. In this process, financial bubbles will pop up, and inflation may strongly impact the entire society. The inequality between rich and poor will only get worse. Increasing inequality will be accompanied by a certain restructuring, and while some people may enjoy a spectacular rise, others may suffer a spectacular fall.  
+  
+The largest variable is what direction the United States will take after the election and the possible impact this will have on the world. At present, the dust is only just settling after the election, and many questions remain about the future. There are two big concerns. One is whether the U.S. will start to decline, and another is the nature of Biden’s internal and external policies, particularly with regard to China.  
+  
+Will America start to decline? Many people have been talking about this recently. How do we evaluate the situation? In fact, it is a huge, complicated question, but my view is quite simple. Whether the U.S. will decline will be decided in the short term by whether it can sustain its capacity for innovation, and in the long term by whether it can resolve its internal tensions through institutional renewal. My view is that there is relatively little likelihood that America will decline in the short term, but the long-term challenge is indeed very serious, and the most important issues are changes in America’s demographic structure brought about by the process of globalization, and America’s internal “clash of civilizations.”  
+  
+What will Chinese-American relations be like in the Biden era? This will be decided by how Biden deals with Trump’s historical legacy. The Trump era was a turning point in Sino-American relations. Behind this turning point was a fundamental change in American strategic thinking about China. This strategic change was brought about by two things: one was defining China as the number one strategic adversary, and the second was the idea of the ten-year window of opportunity.\[2\] How will Chinese-American relations develop in the post-Trump era? This will be decided by whether the U.S. stays with these two points or moves on. In my view, the first will not change, while the second might. If this is what happens, it will mean that while the tone of the Biden government may not change, certain concrete ways of doing things may well change. We might see the emergence of a more subtle approach, one that looks to long-term effectiveness.   
+  
+A few things to not take lightly: 1\. Thinking that there will be a fundamental change in U.S. China policy. There are four levels in U.S. China policy, outside of the President as the highest-level decision maker. There is the administration, the opposition parties and think tanks, elites and the media, and public opinion. As long as these four levels share a basic consensus, basic policy cannot easily change. 2\. Hoping that the new administration will be friendlier to China. Ideology and values are all the more important to the Democrats. I saw in the news that Biden plans to organize a global summit on democracy in the course of his first year. 3\. Hoping that the West will split apart. As the Biden administration puts more emphasis on America’s leadership position, on multilateralism, and on ideology and values, relations between the U.S. and other Western countries will likely move toward détente.   
+  
+In terms of China’s development, at present we are genuinely facing a choice: do we continue to stay the course and improve the people’s livelihood, or do we shoot the moon? In the past we have lived through one period in which we tried really hard and things didn’t work out, and one in which things worked out well although we didn’t try all that hard. We need to understand that we are facing extremely difficult livelihood issues. The biggest problem is our demographic situation. \[3\]   
+  
+​I have already talked a lot about our aging population, and there is no need to go over it again. But we should not forget the problems at the other end of the population ladder. Every new year we note data like these: 2784 babies were born in Shanghai on January 1, 1990\. On January 1, 2000, 1148\. On January 1, 2010, 380, and on January 1, 2020, 156\. Of course, we have to take these numbers with a grain of salt, because some children born to young people who are in Shanghai but have not obtained Shanghai residence permits are not counted. But in any event, the declining birth rate is already a various serious problem. In the future, how we balance the basic needs of the people and our larger ambitions may be a serious problem.   
+  
+**Notes**  
+  
+\[1\] 孙立平, “[2021：我们将面对一个怎样的世界?](https://mp.weixin.qq.com/s/a4XrFJJSZi9wggbm8TOzqA)”, published online on January 23, 2021.  
+  
+\[2\] Sun is referring to the urgency with which the American government views the China challenge, and the time-table for the American response. For a more detailed discussion, see Deng Yiyun, “[Chinese Statism, the Transitional Nature of Xi Jinping’s Regime, and America’s Response](/deng-yuwen-chinese-statism/).”  
+  
+​\[3\] What Sun actually says is “one old, one young 一老一小,” which can be a reference to a [health insurance reform](https://baike.baidu.com/item/%E2%80%9C%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E2%80%9D%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9) introduced in Beijing in 2017, but here must surely mean “demographic imbalance,” “or aging population,” or “who is going to pay my pension?”

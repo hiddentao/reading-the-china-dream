@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@400;700&family=Montserrat:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+@source "../**/*.{js,jsx,ts,tsx}";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #c23b3b;
+  --color-secondary: #6555c2;
+  --color-text: #2a2a2a;
+  --font-family-sans: 'Montserrat', sans-serif;
+  --font-family-heading: 'Amaranth', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans;
+    color: #2a2a2a;
+  }
+
+  h1 {
+    @apply text-4xl font-bold mb-4;
+  }
+
+  h2 {
+    @apply text-3xl font-bold mb-3 mt-6;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold mb-2 mt-5;
+  }
+
+  a {
+    @apply text-red-600 hover:text-purple-600 transition-colors;
+  }
+}
+
+/* Markdown content styling */
+.markdown-content {
+  @apply prose prose-lg max-w-none;
+
+  p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  ul, ol {
+    @apply mb-4 ml-6;
+  }
+
+  li {
+    @apply mb-2;
+  }
+
+  blockquote {
+    @apply border-l-4 border-gray-300 pl-4 italic my-4;
+  }
+
+  code {
+    @apply bg-gray-100 px-1 py-0.5 rounded text-sm;
+  }
+
+  pre {
+    @apply mb-4 rounded-lg overflow-x-auto;
+  }
+
+  pre code {
+    @apply bg-transparent p-0;
+  }
+
+  img {
+    @apply my-4 rounded-lg;
+  }
+}

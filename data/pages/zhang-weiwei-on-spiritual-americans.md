@@ -1,0 +1,43 @@
+---
+title: "Zhang Weiwei on \"Spiritual Americans\""
+date: "2025-11-18"
+sourceUrl: "https://www.readingthechinadream.com/zhang-weiwei-on-spiritual-americans/"
+---
+
+**Zhang Weiwei, “Say No to ‘Spiritual Americans’”\[1\]**  
+  
+**Introduction and Translation by David Ownby**  
+  
+_Introduction_  
+  
+Zhang Weiwei (b. 1958), head of Fudan University’s [China Institute](http://www.cifu.fudan.edu.cn/), is surely among the Chinese Communist Party’s favorite public intellectuals. Although he began his academic career in a conventional way, publishing monographs on ideological trends during the reform era and on cross-straits relations between China and Taiwan, over the course of the 2000s Zhang transformed himself into a major cheerleader for the regime, and has never looked back.   
+  
+For the past decade and more, his full-time job has been promoting China through his writings, speeches, and debates, targeting both his fellow countrymen, whom Zhang sees as lacking confidence in themselves and in China, and the world at large, which Zhang addresses in fluent English (he was an English-language interpreter for the Chinese Foreign Ministry between 1983 and 1988). For those interested in sampling Zhang’s message, many of his talks and debates are available on [Youtube](https://www.youtube.com/results?search%5Fquery=zhang+weiwei).   
+  
+The short text translated here was penned during Shanghai’s recent covid lockdown, and delivers a very predictable message: despite the minimal sacrifices in terms of personal freedom required by adherence to China’s covid policy, China is still doing better than the United States on this front by any conceivable measure. Zhang’s point is of course valid, although his attempts to calculate just how “safe” the Chinese should feel (compared to Americans) that they will not contract or die from the virus strike as unconvincing, and I suspect the numbers fell somewhat flat in Shanghai at the time as well (indeed, there are [unconfirmed rumors](https://www.republicworld.com/world-news/china/chinese-political-commentator-claims-internet-blockade-in-fudan-university-campus-report-articleshow.html) that Zhang was beaten up during a demonstration on the Fudan campus). Instead, what stands out in this piece is Zhang’s invention of the term “spiritual Americans” to refer to those Chinese who are grumbling about the lockdowns. This is uncivil, and makes me wonder if the lockdown was not wearing on Zhang as well. His usual vibe is smarmy, not nasty, and it is somewhat “spiritually American” of him to politicize pandemic management.   
+  
+_Translation_  
+  
+Not long ago, a 2021 video of me talking about China's model for fighting covid caused some controversy. Here's what I said at the time: "If you are living in China today, your sense of security about not catching or dying from the coronavirus should be at least 500 times greater than that of Americans. The Chinese people's sense of the strengths of their system and the weakness of America’s has never been more clear, heart-felt, concrete, and profound." It is mind-boggling to me that this statement should be controversial.  
+  
+Since the outbreak of the pandemic in 2020, I have been comparing the situation in China and the United States roughly every three months, pointing out that the sense of security that we will not contract or die from the coronavirus is much greater than in the United States. At the outset we could feel more than 100 times more secure, and as things evolved, this increased to more than 300, 500, even 600 times. These conclusions scared the hell out of many "spiritual Americans." It is ridiculous for them to use problems occurring during the Shanghai lockdown as a talking point to try to deny the success of the Chinese model.   
+  
+The vast majority of Chinese people have enjoyed more than two years of peace and quiet, and China is the only mega-economy in the world with positive economic growth. Wuhan has succeeded, Shenzhen has succeeded, Xi'an has succeeded, Jilin has succeeded, Tianjin has succeeded, so why can't Shanghai succeed? For a time, Shanghai strayed from the anti-epidemic model fashioned by the Chinese people and took a bit of a detour, but is now on the right track under the strong leadership of the Party Central Committee and with the strong support of the whole nation. Shanghai is a city with rich life experience, and when it falls down, it picks itself up and keeps on fighting. By April 27, the number of new cases had dropped to 171, meaning that the dawn is near.  
+  
+There are many things to compare about the pandemic in China and the United States. For example, according to statistics from the two countries, on December 4, 2020, there were 296,148 cumulative deaths in the United States and 4,634 in China. This means that in absolute terms, deaths in the United States were 63 times greater than in China, but China's population is 4.2 times that of the United States, so I argued at the time that the sense of security of the average Chinese person that they would not die of covid was 268 times that of the United States. During the same time period, the cumulative number of diagnosed cases in the United States was 15,036,519 and in China was 86,601, meaning that the U.S. rate was 173 times greater in absolute terms, and China’s sense of security of not dying from the virus was 729 times higher than that of the United States.  
+  
+On November 25, 2021, the scientist Zhong Nanshan 钟南山(b. 1936) delivered a keynote address at the China Internet Media Forum in Guangzhou, stating that "In a global public health emergency, the highest human right should be the right to life, and the right to a healthy life." Guided by the idea that "life comes first," which is promoted by the media, most people in China are willingly wearing masks, reducing their participation in gatherings, reducing social transmission, and cooperating with screening tests and contact tracing.   
+  
+Despite some restrictions on individual freedom, China is the country with the lowest number of coronavirus infections and the lowest coronavirus mortality rate in the world. "The prevalence of the coronavirus in China is 8.9 per 100,000 population, which is 1/1678 of that of the United States, and the mortality rate is 0.4 per 100,000 population, which is 1/606 of that of the United States." Based on this data, I have since pointed out on different occasions that, for Chinese people, the freedom from contracting covid or the sense of security that we will not catch it is more than 1600 times that of the United States, and the freedom from dying from covid or the sense of security that we will not die from it is more than 600 times that of the United States.  
+  
+It looks as if these figures stimulated a group of "spiritual Americans." As measures to control the epidemic developed in Shanghai, it was clear that these spiritual Americans were envious of the U.S. model of "lying flat"\[2\] that has resulted in the deaths of millions and the infection of more than 80 million people. The Chinese people, including the people of Shanghai, will never allow "spiritual Americans" to take over our pandemic management, and will never allow the model of a country that was “defeated by covid” to replace our model which was “victorious over covid.” Of course, there is room for the future improvement of our model, but in its present shape, it is far superior to the American model.  
+  
+It is gratifying to see that although these "spiritual Americans" can still influence local public opinion through disinformation and slander with the support of Taiwan's "1450" online army\[3\] and various Western forces, their days of calling the shots have come to an end, because American model they worship has fallen from grace in China, and the American myth has been shattered in the eyes the majority of Chinese people, and especially young Chinese people.  
+  
+**Notes**  
+  
+\[1\]张维为, “[对’精神美国人’说NO](http://www.cifu.fudan.edu.cn/bf/7a/c413a442234/page.htm),” published on the website of Fudan University’s China Institute on April 28, 2022\.   
+  
+\[2\]Translator’s note: “Lying flat” (_tangping_/躺平) is a commonly used term in contemporary Chinese youth culture, referring to the desire of some young people to get out of the rat race and “unplug” themselves from the many sources of tension in Chinese life today. For more information see [here](/sun-liping-on-lying-flat/).  
+  
+\[3\]Translator’s note: This is a reference to the “online army” of Taiwan’s Democratic Progressive Party (DPP), which advocates the independence of Taiwan.  
